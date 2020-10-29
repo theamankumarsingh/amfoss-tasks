@@ -11,7 +11,7 @@ Thank you.
 ## Checklist
 - Task 0
 - ~~Task 1~~
-- ~~Task 2~~
+- ~~Task 2~~ (irc problem)
 - ~~Task 3~~
 - Task 4
 - Task 5
