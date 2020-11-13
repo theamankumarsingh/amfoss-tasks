@@ -9,11 +9,11 @@ Thank you.
 >Amritapuri Campus.
 
 ## Checklist
-- Task 0
+- ~~Task 0~~
 - ~~Task 1~~
 - ~~Task 2~~ (irc problem)
 - ~~Task 3~~
-- Task 4
+- ~~Task 4~~
 - Task 5
 - Task 6
 - Task 7
@@ -23,5 +23,5 @@ Thank you.
 - Task 11
 - Task 12
 - Task 13
-- Task 14
+- ~~Task 14~~
 - Task 15
