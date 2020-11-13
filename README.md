@@ -4,7 +4,7 @@ You are seeing my submission of tasks (Freshers 2020). If you do not understand 
 Thank you.
 
 **Aman Kumar Singh**
->ECE-A 2024,
+>ECE 2024,
 >Amrita Vishwa Vidyapeetham,
 >Amritapuri Campus.
 
