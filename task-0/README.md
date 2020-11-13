@@ -1,1 +1,1 @@
-
+Done installing ~~ubuntu~~ **MANJARO** :)
