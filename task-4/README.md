@@ -1,4 +1,4 @@
-This task was also easy as Java is my primary language (I started programming with this).
+This task was easy as Java is my primary language (I started programming with this).
 
 Errors fixed:
 1. Semicolons XD
