@@ -11,13 +11,17 @@ int main() {
     cin>>t;
     while(t--)
     {
+	//input b,c
         cin>>b>>c;
+	//setting high decimal precision for accuracy
         cout<<setprecision(10)<<minimum()<<'\n';
     }
 	return 0;
 }
 double minimum()
 {
+    //uses ternary search to close in on minima
+    //only works for positive b,c
     double s=0, e=pi/2;
     double m1, m2;
     while(e-s>accuracy)
@@ -33,5 +37,6 @@ double minimum()
 }
 double f(double x)
 {
+    //function
     return (x*x + b*x +c)/sin(x);
 }
