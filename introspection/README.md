@@ -1,5 +1,5 @@
 # Introspection
-a. I am very passionate about Technology, and want to continue developing softwares and codes. I also have some experience in programming as well as competitons.
+a. I am very passionate about Technology, and want to continue developing softwares and codes. I have some experience in programming as well as competitons.
 
 b. My plan for next 6 months is to gain skills and necessary knowledge to do Open Source development and get selected in GSOC.
 
