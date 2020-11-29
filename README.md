@@ -1,6 +1,6 @@
 # amfoss-tasks [@theamankumarsingh](https://github.com/theamankumarsingh)
 
-You are seeing my submission of tasks (Freshers 2020). If you do not understand whatever is in the repository, **turn back!** This repository is meant for amFOSS mentors and members *ONLY*.
+You are seeing my submission of tasks (Freshers 2020). This repository is meant for amFOSS mentors and members *ONLY*. If you do not understand whatever is in the repository, **turn back!**
 Thank you.
 
 **Aman Kumar Singh**
@@ -19,7 +19,7 @@ Thank you.
 - Task 7
 - ~~Task 8~~
 - ~~Task 9~~
-- Task 10
+- ~~Task 10~~
 - ~~Task 11~~
 - ~~Task 12~~
 - ~~Task 13~~
