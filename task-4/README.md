@@ -13,4 +13,3 @@ Errors fixed:
 10. Any similar bug(s) is fixed
 
 I took care not to change the main logic of code as best as I could.
-I hope Lenna is pleased with my work ;)
