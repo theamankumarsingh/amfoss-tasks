@@ -2,4 +2,17 @@ There were two approaches one could take to solve this question, I took the pali
                 
 In this approach, rather than iterating a new number, check if its palindrome, then do whatever is asked in the question, we can simply interate three digit numbers, create palindromes from them and then do whatever is asked by question. This saves some time.
 
-## How this code works:
+## How the code works:
+getPalindrome funtion computes the smallest 6 digit palindrome made from the product of two 3 digit numbers. Now if we do some math, we find that a 6 digit palindrome will ALWAYS be divisible by 11. In fact, and even digit palindrome will always be divisible by 11. 
+
+**PROOF**: To get divisibility test by 11, we subtract sum of even digits with sum of odd digits and if the difference is divisible by 11, the number is divisible by 11. In an EVEN digited palindrom, 1st term is equal to last term (which is even numbered term). 2nd term is equal to second last term (which is odd numbered term). Thus the divisibility test difference will always come 0 and 0 is divisible by 11.
+
+Now back to the palindrome function. We are sure if the number the palindrome number N can be represented by two 3 digit number A X B, then either of A or B is divisible by 11. SO we check 3 conditions:
+
+1. we compute factor A by multiplying a two digit number with 11 (to be precise, from 10 to 90). Then we check if N is divisible by that three digit product. This is to ensure the number is just not divisible by 11 only but by a three digit factor and that factor is divisible by 11
+
+2. Check if palindrome is less then our limit.
+
+3. Also check if the other facter B is a three digit number as well.
+
+If all these conditions are met, we return then palindrome, else check for other numbers.
