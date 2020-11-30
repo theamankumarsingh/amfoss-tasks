@@ -1,5 +1,5 @@
 # Geddit
-My submission for task-6 Geddit.
+My submission for task-6 Geddit. Also, Reddit is one of my favourite place to hang out :)
 
 It was moderately difficult task. I had to go though documentation of Go language to figure out how the syntaxes, expressions work.
 I spent some time just reading source code (post.go, reddit.go, subreddit.go etc.) in the go-reddit repository. I discovered functions of my use and by looking at the examples folder, I was able to decipher how I should use them in my script.
