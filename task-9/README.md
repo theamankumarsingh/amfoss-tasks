@@ -1,5 +1,8 @@
 # Spammer_Spaghetti
 I would rate this task a medium because I don't know JavaScript.
+
+Yes, all modern web browsers have a console in them. We can execute scripts as well as view information associated with a webpage.
+
 I went though the links and learnt bit of syntaxes which would help me do this task. Even went to JQuery section and learnt few commands just to make things simpler for me.
 
 About the code:
