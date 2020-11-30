@@ -17,7 +17,7 @@ One of the most interesting tasks...
 Learnt application of many Linux commands such as ls, cat, man, find, cd, sort etc.
 Used google as a help to find usage of the commands I didn't knew before. I completed till Level 10 to 11.
 
-(**PS:** During formatting README.md file learnt that to represent space (as space is not allowed in a url) we can use %20, which is hexadecimal of ASCII 32.)
+(**PS:** During formatting README.md of this folder, I learnt that to represent space (as space is not allowed in a url) we can use %20, which is hexadecimal of ASCII 32.)
 
 ---
 
