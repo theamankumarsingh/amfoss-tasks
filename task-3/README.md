@@ -14,6 +14,8 @@ thearcane
 * [**Ryuk and His Death Notes**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-3/Ryuk%20and%20His%20Death%20Notes)
 * [**The D**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-3/The%20D)
 
+I am quite familiar with competitive coding (I know Java, C and C++), so the tasks were from easy to moderate for me. In the *Pizza Fest*, I switched to C++ because Java wasn't fast enough for that problem.
+
 ---
 
 ### [(BACK)](https://github.com/theamankumarsingh/amfoss-tasks)
