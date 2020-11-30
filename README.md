@@ -9,7 +9,7 @@ Thank you.
 >Amritapuri Campus.
 
 ## Checklist
-- ~~Task 0~~
+- ~~Task 0~~ [**Install Ubuntu**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-0)
 - ~~Task 1~~
 - ~~Task 2~~
 - ~~Task 3~~
@@ -31,5 +31,7 @@ The tasks were very exciting and fun to do. I took every task as a challenge I h
      
 ## About me
 I am Aman, and I hail from Lucknow, Uttar Pradesh (the city of Nawabs). I did my +2 education from City Montessori Inter College, Gomti Nagar, Lucknow. I joined Amrita due to very good education and club culture. I had been coding since class 7th. My first language was Java, which to this day is my primary language (although I use C++ sometimes). I am very passionate about software technology. At the end of class 8th I built a small virtual assistant (like siri, although not at that level of complexity) using java and some extensions (mbrola) all by myself. I was in CMS Aliganj's robotics team in class 9th and 10th. There I learnt little bit of C programming to code Arduino microcontroller (before I left the school and joined CMS Gomti Nagar, which is perhaps the best ICSE school in Uttar Pradesh). In my 11th and 12th, I learnt C++ (because I was bored with Java). I took part in competitons too. My biggest achievement to date is representing my school in Techniche 2018, a tech fest by IIT Guwahati. Our team not only won in some of the events of Techniche (in TechOlympics group, which was a catagory based on technology), but we also brought back TechOlympics Overall Championship Trophy to the school. Below is the image of me and my team with our proud principal, and the person holding the trophy is me:
+
 ![](https://github.com/theamankumarsingh/amfoss-tasks/blob/main/0.png?raw=true)
+
 For me, amFOSS is the ideal platform through which I can contribute to the Open Source development, gain experience and knowledge, and fulfill my goals.
