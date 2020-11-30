@@ -1,5 +1,5 @@
 # CS50
-### Lecture Checklist
+#### Lecture Checklist
 - ~~Lecture 0~~
 - ~~Lecture 1~~
 - ~~Lecture 2~~
@@ -13,3 +13,13 @@
 - ~~Lecture 10~~
 - ~~Lecture 11~~
 - ~~Lecture 12~~
+
+#### Missing:
+1. pset-4
+2. pset-5
+
+---
+
+#### [pset-0]() [pset-1]() [pset-2]() [pset-3]()
+
+### [(BACK)](https://github.com/theamankumarsingh/amfoss-tasks)
