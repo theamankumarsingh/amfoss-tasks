@@ -1,8 +1,8 @@
 # Installing Manjaro
 Done installing ~~ubuntu~~ **MANJARO** :)
 
-Also, I use linux as my daily driver. I have used Ubuntu, Kali Linux in the past (apart from manjaro).
-I also have an account on dev.to (linked to this github account), although I didn't post any issues because I didn't face any.
+Also, I use Linux as my daily driver. I have used Ubuntu, Kali Linux in the past (apart from manjaro).
+I also have an account on dev.to (linked to this GitHub account), although I didn't post any issues because I didn't face any.
 
 ---
 
