@@ -8,7 +8,7 @@ Your bat is a maths expert, and will count when he will come near the cat.
 
 Although the butterfly is on good terms with the bat, it cannot come near the bat (maybe she is allergic to him? who knows). It will say ouch! if near.
 
-And to make things worse, the bat and butterfly also create clones of themselves XD
+And to make things worse, the bat and butterfly also create clones of themselves XD.
 Sit back and enjoy this bizarre show of the three friends :)
 
 ---
