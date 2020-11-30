@@ -9,6 +9,7 @@ Thank you.
 >Amritapuri Campus.
 
 ## Checklist
+- [*introspection*](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/introspection)
 - ~~Task 0~~  [**Install Ubuntu**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-0)
 - ~~Task 1~~  [**Star the amFOSS Repositories**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-1)
 - ~~Task 2~~  [**Register nick in IRC Freenode**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-2)
