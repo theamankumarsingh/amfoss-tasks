@@ -20,6 +20,6 @@
 
 ---
 
-#### [pset-0]() [pset-1]() [pset-2]() [pset-3]()
+#### [pset-0](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-10/pset-0)    [pset-1](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-10/pset-1)    [pset-2](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-10/pset-2)    [pset-3](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-10/pset-3)
 
 ### [(BACK)](https://github.com/theamankumarsingh/amfoss-tasks)
