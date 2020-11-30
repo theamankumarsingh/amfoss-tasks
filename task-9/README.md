@@ -1,5 +1,5 @@
-I would rate this task a medium because I don't know javascipt XP
-I went though the links and learnt bit of syntaxes which would help me do this task. Even went to JQuery section and learnt few commands just to make things simpler for me :D
+I would rate this task a medium because I don't know javascipt.
+I went though the links and learnt bit of syntaxes which would help me do this task. Even went to JQuery section and learnt few commands just to make things simpler for me.
 
 About the code:
 1. **speed** variable is used to control speed at which messages are sent (in milliseconds). Default value assigned is 50ms. (Pretty fast, huh?)
