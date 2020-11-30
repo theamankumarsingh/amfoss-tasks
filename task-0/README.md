@@ -1,4 +1,4 @@
-# Installing Manjaro
+# Install Ubuntu
 Done installing ~~ubuntu~~ **MANJARO** :)
 
 Also, I use Linux as my daily driver. I have used Ubuntu, Kali Linux in the past (apart from manjaro).
