@@ -1,3 +1,4 @@
+# Circuit Design
 A basic circuit (application: in safety)
 
 I used to code Arduino (I own an uno, mega and a raspberry pi 3 [model-B] :D), so coding part wasn't tough.
@@ -8,3 +9,7 @@ The motor I used is a simple DC motor. Using pwm, we can variate speed of the mo
 I used a Red LED to inform the user if the motor is off or on
 
 This setup can be used as a safety mechanism in complex machinery.
+
+---
+
+### [(BACK)](https://github.com/theamankumarsingh/amfoss-tasks)
