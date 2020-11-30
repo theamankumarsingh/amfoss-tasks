@@ -10,7 +10,7 @@ Thank you.
 
 ## Checklist
 - ~~Task 0~~  [**Install Ubuntu**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-0)
-- ~~Task 1~~  [**Star the amFOSS repositories**][https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-1]
+- ~~Task 1~~  [**Star the amFOSS Repositories**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-1)
 - ~~Task 2~~  [**Register nick in IRC Freenode**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-2)
 - ~~Task 3~~  [**Programming**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-3)
 - ~~Task 4~~  [**Debugging Derbies**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-4)
