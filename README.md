@@ -9,22 +9,22 @@ Thank you.
 >Amritapuri Campus.
 
 ## Checklist
-- ~~Task 0~~ [**Install Ubuntu**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-0)
-- ~~Task 1~~
-- ~~Task 2~~
-- ~~Task 3~~
-- ~~Task 4~~
-- Task 5
-- ~~Task 6~~
-- Task 7
-- ~~Task 8~~
-- ~~Task 9~~
-- ~~Task 10~~
-- ~~Task 11~~
-- ~~Task 12~~
-- ~~Task 13~~
-- ~~Task 14~~
-- ~~Task 15~~
+- ~~Task 0~~  [**Install Ubuntu**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-0)
+- ~~Task 1~~  [**Star the amFOSS repositories**][https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-1]
+- ~~Task 2~~  [**Register nick in IRC Freenode**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-2)
+- ~~Task 3~~  [**Programming**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-3)
+- ~~Task 4~~  [**Debugging Derbies**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-4)
+- Task 5  [**Rustic Scraper**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-5)
+- ~~Task 6~~  [**Geddit**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-6)
+- Task 7  [**Ubiquitous UI**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-7)
+- ~~Task 8~~  [**Sir Perceval's quest**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-8)
+- ~~Task 9~~  [**Spammer_Spaghetti**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-9)
+- ~~Task 10~~ [**CS50**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-10)
+- ~~Task 11~~ [**Poster Design**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-11)
+- ~~Task 12~~ [**If maths was fun**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-12)
+- ~~Task 13~~ [**Circuit Design**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-13)
+- ~~Task 14~~ [**Bandit**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-14)
+- ~~Task 15~~ [**Project Euler**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-15)
 
 ## About my tasks
 The tasks were very exciting and fun to do. I took every task as a challenge I have to overcome, learning in the process and brushing up my skills. Since technology is a rapidly developing field, I am sure to find this experience handy when the time comes.
