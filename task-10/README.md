@@ -16,8 +16,8 @@
 - ~~Lecture 12~~
 
 #### Missing:
-1. pset-4
-2. pset-5
+* pset-4
+* pset-5
 
 ---
 
