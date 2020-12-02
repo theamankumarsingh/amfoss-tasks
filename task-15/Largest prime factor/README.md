@@ -6,9 +6,7 @@ maxprime() is the function responsible to compute maximum prime factor of a numb
 
 Next we run another for loop which tests all number greater than 2 and less than (equal to) root of the odd number N. We can mathematically see that we cannot find a prime number outside this domain. Thus saving our precious computation time.
 
-**PROOF:** A odd number N having a prime factor, can be represented by N = p * f, where p and f are factors, p is prime, f can be or cannot be prime. 
-
-Lastly if N is not reduced to 1, that means N itself is prime, and we return that.
+**PROOF:** A odd number N having a prime factor, can be represented by N = p * f, where p and f are factors of N. Both p and f cannot be greater than sqrt(N) (else number will be greater than N). So actually, one factor is greater equal to sqrt(N) and other factor is less than equal to sqrt(N). Thus we are guranteed to find a prime factor in sqrt(N) range if N is NOT itself a prime.
 
 ---
 
