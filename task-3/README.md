@@ -1,7 +1,5 @@
 # Programming
 
-thearcane
-
 ## Programs
 * [**Good Strings**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-3/Good%20Strings)
 * [**Great Eye**](https://github.com/theamankumarsingh/amfoss-tasks/tree/main/task-3/Great%20Eye)
